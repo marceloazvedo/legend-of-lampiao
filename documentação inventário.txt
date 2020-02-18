@@ -1,0 +1,25 @@
+calculos do inventário
+
+selecionador de cima:
+y = 76
+inicio X = 11
+fim do primeiro X = 382
+
+inicio segundo X = 409
+fim segundo X 780
+
+DIFERENÇA DE 371 PONTOS
+MEIO = 381 - 410 = 19 PONTOS
+
+
+Selecionador inventario:
+
+inicio 10 - 185
+y = 226
+
+selecionador arma
+x = 45
+y = 312
+
+x nao anda
+y vai de 62 em 62 até 560
