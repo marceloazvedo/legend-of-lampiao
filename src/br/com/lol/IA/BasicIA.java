@@ -66,13 +66,13 @@ public class BasicIA{
 			i = new InimigoFraco(x, y, 1, jogador);
 			i.setSpriteDireita(this.spriteCareca);
 			i.setSpriteEsquerda(this.spriteCarecaInvertido);
-			inimigos.add(i);
+//			inimigos.add(i);
 			break;
 		case 1:
 			i = new InimigoFraco(x, y, 1, jogador);
 			i.setSpriteDireita(this.spriteGordo);
 			i.setSpriteEsquerda(this.spriteGordoInvertido);
-			inimigos.add(i);
+//			inimigos.add(i);
 			break;
 		case 2:
 			i = new InimigoFraco(x, y, 1, jogador);
@@ -84,7 +84,7 @@ public class BasicIA{
 			i = new InimigoFraco(x, y, 1, jogador);
 			i.setSpriteDireita(this.spriteVelha);
 			i.setSpriteEsquerda(this.spriteVelhaInvertido);
-			inimigos.add(i);
+//			inimigos.add(i);
 			break;
 		}
 	}

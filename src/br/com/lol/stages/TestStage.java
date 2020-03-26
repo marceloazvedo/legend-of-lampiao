@@ -337,7 +337,7 @@ public class TestStage extends Game {
 	}
 	
 	private void adicionarInimigos(){
-		for(int i = 1; i < 15; i++){
+		for(int i = 1; i < 8; i++){
 			this.ia.adicionarInimigosLimit(this.inimigos, 400 * i, 0);
 		}
 	}

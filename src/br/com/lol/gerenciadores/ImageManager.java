@@ -29,7 +29,7 @@ public class ImageManager {
 	public BufferedImage loadImage(String filename) throws IOException{
 		URL url = getClass().getResource("/"+filename);
 		if(url == null){
-			throw new RuntimeException("A imagem /" + filename + "não foi encontrada");
+			throw new RuntimeException("A imagem /" + filename + " não foi encontrada");
 		}else{
 			String path = url.getPath();
 			if(images.containsKey(path)){

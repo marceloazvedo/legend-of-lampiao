@@ -105,7 +105,7 @@ public class Inventario implements Display{
 			this.inventario = ImageManager.getInstance().loadImage("br/com/lol/imagens/inventario/inventario.png");
 			this.opcoes = ImageManager.getInstance().loadImage("br/com/lol/imagens/inventario/opções.png");
 			this.selecionadorVermelho = ImageManager.getInstance().loadImage("br/com/lol/imagens/inventario/selecionador_vermelho.png");
-			this.selecionadorArma = ImageManager.getInstance().loadImage("br/com/lol/imagens/inventario/selecionador_Amarelo.png");
+			this.selecionadorArma = ImageManager.getInstance().loadImage("br/com/lol/imagens/inventario/selecionador_amarelo.png");
 			this.inventarioArmas = ImageManager.getInstance().loadImage("br/com/lol/imagens/inventario/escolha.png");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block

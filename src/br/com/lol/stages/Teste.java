@@ -8,8 +8,6 @@ import java.io.OutputStream;
 import java.net.URISyntaxException;
 import java.util.Properties;
 
-import sun.reflect.ReflectionFactory.GetReflectionFactoryAction;
-
 public class Teste {
 	
 	private Properties propriedades;
